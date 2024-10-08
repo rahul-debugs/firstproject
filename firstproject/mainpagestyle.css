@@ -1,0 +1,33 @@
+body{
+    background-image: url(./orilearnwithfun.jpg);
+    background-size: cover;
+}
+ul,li{
+    display: inline-block;
+    color: white;
+    font-size: x-large;
+
+
+}
+.header{
+    background-color: black;
+}
+li{
+ padding-right: 35px;
+}
+ul{
+    margin-left: 1000px;
+}
+button{
+    background: black;
+    border-color: chartreuse;
+    border-radius: 20px;
+    text-align: center;
+    border-width: 2px;
+    margin-right: 28px;
+    
+}
+li{
+    padding: 2px;
+}
+

@@ -1,0 +1,77 @@
+body{
+    background-image: url(./departmentbackground.jpg);
+    background-size: cover;
+}
+p{
+    font-size: 50px;
+    font-size: larger;
+}
+
+.cse{
+    font-size: 70px;
+    display: inline-block;
+
+}
+.mech {
+    margin-left: 130px;
+    display: inline-block;
+    font-size: 70px;
+    display: inline-block;
+
+
+}
+.eee{
+    margin-left: 130px;
+    display: inline-block;
+    font-size: 70px;
+
+}
+.ece{
+    font-size: 70px;
+    display: inline-block;
+
+
+}
+/* to do hower */
+.ece:hover {
+    border: solid;
+    border-radius: 100px;
+    padding: 30px;
+    background-color:orangered;
+    border-width: 8px;
+    border-color: black;
+    color: white;
+}
+.cse:hover{
+    border: solid;
+    border-radius: 100px;
+    padding: 30px;
+    background-color:orangered;
+    border-width: 8px;
+    border-color: black;
+    color: white;
+}
+.mech:hover{
+    border: solid;
+    border-radius: 100px;
+    padding: 30px;
+    background-color:orangered;
+    border-width: 8px;
+    border-color: black;
+    color: white;
+}
+.eee:hover{
+    border: solid;
+    border-radius: 100px;
+    padding: 30px;
+    background-color:orangered;
+    border-width: 8px;
+    border-color: black;
+    color: white;
+}
+a {
+    text-decoration: none; 
+    /* Removes the underline */
+   color: inherit; 
+    /* Inherits the color from the parent element */ 
+}

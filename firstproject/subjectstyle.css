@@ -1,0 +1,14 @@
+body{
+    background-image: url(./subjectbackground.jpg);
+background-size: cover;
+}
+h1,h2{
+    font-size: 60px;
+}
+.subject{
+    font-size: 25px;
+    color:darkblue;
+}
+p{
+    color: black;
+}
